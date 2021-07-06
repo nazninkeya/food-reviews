@@ -9,7 +9,17 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
+  
 }
+.background-img{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+}
+
+
+
+
+
 .link-button{
     text-decoration: none;
     background-color: orange;
