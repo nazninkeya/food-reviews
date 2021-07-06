@@ -12,8 +12,25 @@ section{
     margin-bottom: 150px;
   
 }
-.background-img{
+.back-first-img{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+}
+.heading-tag{
+    margin-left: 5px;
+    padding-left: 80px;
+}
+.back-img{
     background-image: url(images/shapes/Frame\ 59.jpg);
+}
+
+.line-aling{
+    margin-left: 450px;
+    margin-right: 200px;
+    padding: 5px;
+    
+}
+.text-al{
+    text-align: center;
 }
 
 
