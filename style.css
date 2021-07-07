@@ -37,6 +37,7 @@ section{
 
 
 
+
 .link-button{
     text-decoration: none;
     background-color: orange;
@@ -46,4 +47,25 @@ section{
     color: papayawhip;
     font-weight: 700;
     
+
 }
+.third-raw{
+    display: flex;}
+   .image-tag{
+       width: 200px;
+       height: 200px;
+       display: flex;
+       flex-direction: row;
+   }
+   
+   .third-section{
+       display: flex;
+   }
+
+
+
+
+
+        
+    
+   
