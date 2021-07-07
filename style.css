@@ -61,6 +61,15 @@ section{
    .third-section{
        display: flex;
    }
+   .third-collum{
+       box-shadow: 10px 10px 40px grey;
+       width: 40%;
+       margin-left: 5%;
+       margin-right: 5%;
+       padding-left: 60px;
+       padding-right: 10px;
+       padding-top: 40px;
+   }
 
 
 
